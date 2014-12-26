@@ -30,3 +30,6 @@ end
 gem 'bootstrap-sass'
 gem 'bcrypt'
 gem 'unicorn'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
